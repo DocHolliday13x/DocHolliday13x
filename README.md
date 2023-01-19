@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ryan Eastman!
 - 👀 I’m interested in ... learning Java Script
 - 🌱 I’m currently learning ... Udemy for JavaScript/Code Fellows Bootcamp
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rking1323@gmail.com
 
 <!---
