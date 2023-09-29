@@ -2,8 +2,6 @@
 
 ![GIF](https://media.giphy.com/media/vSr0Lgose4rhS/giphy.gif)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DocHolliday13x&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 - 👀 I’m interested in software development, gaming, and designing applications.
 - 🌱 I’m currently working with Python and C# to broaden my scope.
 
