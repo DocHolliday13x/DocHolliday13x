@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ryan Eastman!
+#  :ocean: Ryan Eastman!
 
 ![GIF](https://media.giphy.com/media/vSr0Lgose4rhS/giphy.gif)
 
