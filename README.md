@@ -1,4 +1,6 @@
-#  :ocean: Ryan Eastman!
+#  :ocean: Ryan Eastman
+
+**`USN Veteran | Software Developer`**
 
 ![GIF](https://media.giphy.com/media/vSr0Lgose4rhS/giphy.gif)
 
