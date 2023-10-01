@@ -1,4 +1,4 @@
-#  :ocean: Ryan Eastman
+#  :ocean: Ryan Eastman :ocean:
 
 **`USN Veteran | Software Developer`**
 
